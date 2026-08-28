@@ -19,6 +19,11 @@ Route::get('/sitemap.xml', function () {
         ->view('sitemap')
         ->header('Content-Type', 'application/xml');
 })->name('sitemap');
+Route::get('/sitemap_tools.xml', function () {
+    return response()
+        ->view('sitemap')
+        ->header('Content-Type', 'application/xml');
+})->name('sitemap_tools');
 
 Route::get('/{slug}', function ($slug) {
     $tool = collect(config('tools'))

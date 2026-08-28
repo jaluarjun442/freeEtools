@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://freeetools.online/sitemap.xml
+Sitemap: https://freeetools.online/sitemap_tools.xml
