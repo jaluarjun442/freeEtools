@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-
+    @if(app()->environment('production'))
+        <meta name="google-site-verification" content="eHfdtNyzIOcsld7FRSwSNqFI0ORt5CzgmvbRc3l4W3c">
+    @endif
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="{{ asset('favicon.svg') }}" type="image/svg+xml">
 
