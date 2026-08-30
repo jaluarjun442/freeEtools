@@ -64,6 +64,7 @@ return [
         'category' => 'Developer Tools',
         'icon' => '{}',
     ],
+    // index done
     [
         'name' => 'JSON Validator',
         'slug' => 'json-validator',
