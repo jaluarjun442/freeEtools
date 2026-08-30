@@ -64,4 +64,88 @@ return [
         'category' => 'Developer Tools',
         'icon' => '{}',
     ],
+    [
+        'name' => 'JSON Validator',
+        'slug' => 'json-validator',
+        'description' => 'Validate JSON syntax and find errors instantly.',
+        'category' => 'Developer Tools',
+        'icon' => '{}'
+    ],
+    [
+        'name' => 'Base64 Encoder',
+        'slug' => 'base64-encoder',
+        'description' => 'Encode text into Base64 format instantly.',
+        'category' => 'Developer Tools',
+        'icon' => 'B64'
+    ],
+    [
+        'name' => 'Base64 Decoder',
+        'slug' => 'base64-decoder',
+        'description' => 'Decode Base64 text back into readable text instantly.',
+        'category' => 'Developer Tools',
+        'icon' => 'B64'
+    ],
+    [
+        'name' => 'MD5 Generator',
+        'slug' => 'md5-generator',
+        'description' => 'Generate an MD5 hash from text instantly.',
+        'category' => 'Developer Tools',
+        'icon' => 'MD5'
+    ],
+    [
+        'name' => 'SHA-256 Generator',
+        'slug' => 'sha256-generator',
+        'description' => 'Generate SHA-256 hashes from text instantly.',
+        'category' => 'Developer Tools',
+        'icon' => '256'
+    ],
+    [
+        'name' => 'URL Encoder',
+        'slug' => 'url-encoder',
+        'description' => 'Encode URLs and special characters instantly.',
+        'category' => 'Developer Tools',
+        'icon' => '%'
+    ],
+    [
+        'name' => 'URL Decoder',
+        'slug' => 'url-decoder',
+        'description' => 'Decode URLs and percent-encoded text instantly.',
+        'category' => 'Developer Tools',
+        'icon' => '%'
+    ],
+    [
+        'name' => 'HTML Encoder',
+        'slug' => 'html-encoder',
+        'description' => 'Encode HTML special characters into HTML entities.',
+        'category' => 'Developer Tools',
+        'icon' => '&lt;'
+    ],
+    [
+        'name' => 'HTML Decoder',
+        'slug' => 'html-decoder',
+        'description' => 'Decode HTML entities back into readable text.',
+        'category' => 'Developer Tools',
+        'icon' => '&gt;'
+    ],
+    [
+        'name' => 'Slug Generator',
+        'slug' => 'slug-generator',
+        'description' => 'Generate clean and SEO-friendly URL slugs instantly.',
+        'category' => 'SEO Tools',
+        'icon' => 'URL'
+    ],
+    [
+        'name' => 'Text Difference Checker',
+        'slug' => 'text-difference-checker',
+        'description' => 'Compare two texts and find differences instantly.',
+        'category' => 'Text Tools',
+        'icon' => '≠'
+    ],
+    [
+        'name' => 'Text Replacer',
+        'slug' => 'text-replacer',
+        'description' => 'Find and replace words or phrases instantly.',
+        'category' => 'Text Tools',
+        'icon' => '↔'
+    ],
 ];
