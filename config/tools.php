@@ -149,4 +149,120 @@ return [
         'category' => 'Text Tools',
         'icon' => '↔'
     ],
+    [
+        'name' => 'Line Break Remover',
+        'slug' => 'line-break-remover',
+        'description' => 'Remove line breaks from text and create clean continuous content.',
+        'category' => 'Text Tools',
+        'icon' => '↵'
+    ],
+    [
+        'name' => 'Text Trimmer',
+        'slug' => 'text-trimmer',
+        'description' => 'Remove unnecessary spaces from the beginning and end of text.',
+        'category' => 'Text Tools',
+        'icon' => 'T'
+    ],
+    [
+        'name' => 'Whitespace Remover',
+        'slug' => 'whitespace-remover',
+        'description' => 'Remove extra spaces, tabs and unnecessary whitespace.',
+        'category' => 'Text Tools',
+        'icon' => 'WS'
+    ],
+    [
+        'name' => 'Text Capitalizer',
+        'slug' => 'text-capitalizer',
+        'description' => 'Capitalize and change the case of text instantly.',
+        'category' => 'Text Tools',
+        'icon' => 'Aa'
+    ],
+    [
+        'name' => 'Text Reverser',
+        'slug' => 'text-reverser',
+        'description' => 'Reverse characters, words or lines instantly.',
+        'category' => 'Text Tools',
+        'icon' => '↶'
+    ],
+    [
+        'name' => 'Text Cleaner',
+        'slug' => 'text-cleaner',
+        'description' => 'Clean extra spaces, blank lines and unnecessary whitespace.',
+        'category' => 'Text Tools',
+        'icon' => 'CL'
+    ],
+    [
+        'name' => 'Text Extractor',
+        'slug' => 'text-extractor',
+        'description' => 'Extract emails, URLs and numbers from text instantly.',
+        'category' => 'Text Tools',
+        'icon' => 'EX'
+    ],
+    [
+        'name' => 'Email Extractor',
+        'slug' => 'email-extractor',
+        'description' => 'Find and extract email addresses from text instantly.',
+        'category' => 'Text Tools',
+        'icon' => '@'
+    ],
+    [
+        'name' => 'Line Counter',
+        'slug' => 'line-counter',
+        'description' => 'Count total, empty and non-empty lines.',
+        'category' => 'Text Tools',
+        'icon' => 'LN'
+    ],
+    [
+        'name' => 'Word Frequency Counter',
+        'slug' => 'word-frequency',
+        'description' => 'Count how often each word appears in text.',
+        'category' => 'Text Tools',
+        'icon' => 'WF'
+    ],
+    [
+        'name' => 'Remove Line Breaks',
+        'slug' => 'remove-line-breaks',
+        'description' => 'Remove line breaks and join text lines.',
+        'category' => 'Text Tools',
+        'icon' => 'LB'
+    ],
+    [
+        'name' => 'Number to Words',
+        'slug' => 'number-to-words',
+        'description' => 'Convert numbers into written words instantly.',
+        'category' => 'Number Tools',
+        'icon' => '123'
+    ],
+
+    [
+        'name' => 'Text to Binary',
+        'slug' => 'text-to-binary',
+        'description' => 'Convert text into binary values instantly.',
+        'category' => 'Developer Tools',
+        'icon' => '01'
+    ],
+
+    [
+        'name' => 'Binary to Text',
+        'slug' => 'binary-to-text',
+        'description' => 'Decode binary values into readable text.',
+        'category' => 'Developer Tools',
+        'icon' => '10'
+    ],
+
+    [
+        'name' => 'ASCII Converter',
+        'slug' => 'ascii-converter',
+        'description' => 'Convert text characters into ASCII codes.',
+        'category' => 'Developer Tools',
+        'icon' => 'A1'
+    ],
+
+    [
+        'name' => 'Morse Code Translator',
+        'slug' => 'morse-code',
+        'description' => 'Convert text into Morse code instantly.',
+        'category' => 'Text Tools',
+        'icon' => '.-'
+    ],
 ];
