@@ -265,4 +265,113 @@ return [
         'category' => 'Text Tools',
         'icon' => '.-'
     ],
+    [
+        'name' => 'Roman Numeral Converter',
+        'slug' => 'roman-numeral-converter',
+        'description' => 'Convert numbers and Roman numerals instantly.',
+        'category' => 'Number Tools',
+        'icon' => 'RN',
+    ],
+
+    [
+        'name' => 'Number to Words Converter',
+        'slug' => 'number-to-words',
+        'description' => 'Convert numbers into English words instantly.',
+        'category' => 'Number Tools',
+        'icon' => '123',
+    ],
+
+    [
+        'name' => 'Percentage Change Calculator',
+        'slug' => 'percentage-change-calculator',
+        'description' => 'Calculate percentage change between two values.',
+        'category' => 'Calculator Tools',
+        'icon' => '%',
+    ],
+
+    [
+        'name' => 'Random Number Generator',
+        'slug' => 'random-number-generator',
+        'description' => 'Generate random numbers within any range.',
+        'category' => 'Number Tools',
+        'icon' => 'RN',
+    ],
+
+    [
+        'name' => 'Password Generator',
+        'slug' => 'password-generator',
+        'description' => 'Generate strong random passwords instantly.',
+        'category' => 'Security Tools',
+        'icon' => 'PW',
+    ],
+
+    [
+        'name' => 'UUID Generator',
+        'slug' => 'uuid-generator',
+        'description' => 'Generate random UUID version 4 values instantly.',
+        'category' => 'Developer Tools',
+        'icon' => 'ID',
+    ],
+
+    [
+        'name' => 'Timestamp Converter',
+        'slug' => 'timestamp-converter',
+        'description' => 'Convert Unix timestamps into readable dates.',
+        'category' => 'Developer Tools',
+        'icon' => 'TS',
+    ],
+
+    [
+        'name' => 'Unix Time Converter',
+        'slug' => 'unix-time-converter',
+        'description' => 'Convert Unix epoch time into readable dates.',
+        'category' => 'Developer Tools',
+        'icon' => 'UT',
+    ],
+
+    [
+        'name' => 'Regex Tester',
+        'slug' => 'regex-tester',
+        'description' => 'Test regular expressions against sample text.',
+        'category' => 'Developer Tools',
+        'icon' => 'RX',
+    ],
+
+    [
+        'name' => 'JWT Decoder',
+        'slug' => 'jwt-decoder',
+        'description' => 'Decode JWT header and payload data instantly.',
+        'category' => 'Developer Tools',
+        'icon' => 'JWT',
+    ],
+    [
+        'name' => 'Average Calculator',
+        'slug' => 'average-calculator',
+        'description' => 'Calculate the average or mean of numbers instantly.',
+        'category' => 'Calculator Tools',
+        'icon' => 'AVG',
+    ],
+    [
+        'name' => 'XML Formatter',
+        'slug' => 'xml-formatter',
+        'description' => 'Format and beautify XML data with proper indentation.',
+        'category' => 'Developer Tools',
+        'icon' => 'XML',
+    ],
+
+    [
+        'name' => 'XML Validator',
+        'slug' => 'xml-validator',
+        'description' => 'Validate XML syntax and find errors in your XML data.',
+        'category' => 'Developer Tools',
+        'icon' => '✓',
+    ],
+
+    [
+        'name' => 'SQL Formatter',
+        'slug' => 'sql-formatter',
+        'description' => 'Format and beautify SQL queries for better readability.',
+        'category' => 'Developer Tools',
+        'icon' => 'SQL',
+    ],
 ];
